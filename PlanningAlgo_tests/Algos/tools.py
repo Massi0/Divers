@@ -6,13 +6,6 @@ Created on Mon Mar  2 15:07:03 2020
 @author: massimacbookpro
 """
 
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar  2 14:58:38 2020
-
-@author: massimacbookpro
-"""
 import numpy as np
 import sys
 
