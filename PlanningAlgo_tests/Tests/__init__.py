@@ -5,7 +5,16 @@ Created on Tue Mar  3 01:10:34 2020
 
 @author: massimacbookpro
 """
+import unittest as unittest
 
-from .unit_test import Unit_test
-from .djikastra_test import *
 from Algos import *
+from .GraphSearchTest import GraphSearchTest 
+
+from .DjikastraTest import *
+
+
+
+
+
+
+
